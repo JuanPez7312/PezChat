@@ -1,0 +1,52 @@
+<resources>
+    <string name="app_name">Reto 2: Chat</string>
+
+    <!-- Textos de la vista Chat -->
+    <string name="chat_header_image_desc">Imagen de encabezado</string>
+    <string name="chat_title_text">Buscar usuario por correo</string>
+    <string name="chat_email_hint">Correo electrónico</string>
+    <string name="chat_search_button">Buscar</string>
+    <string name="chat_middle_title">¡Ya puedes chatear online!.</string>
+    <string name="chat_message_hint">Escribe un mensaje</string>
+    <string name="chat_send_button">Enviar</string>
+
+    <!-- Textos de la vista de inicio de sesión -->
+    <string name="login_header_image_desc">Imagen del encabezado</string>
+    <string name="login_title_text">Iniciar sesión</string>
+    <string name="login_email_hint">Correo electrónico</string>
+    <string name="login_password_hint">Contraseña</string>
+    <string name="login_button_text">Iniciar sesión</string>
+    <string name="login_register_text">¿No tienes una cuenta? Regístrate</string>
+
+    <!-- Textos de la vista de registro -->
+    <string name="register_header_image_desc">Imagen del encabezado</string>
+    <string name="register_title_text">Registrarse</string>
+    <string name="register_username_hint">Nombre de usuario</string>
+    <string name="register_email_hint">Correo electrónico</string>
+    <string name="register_password_hint">Contraseña</string>
+    <string name="register_button_text">Registrarse</string>
+    <string name="register_login_text">¿Ya tienes una cuenta? Inicia sesión</string>
+
+    <!-- Referencia al archivo conversation_item.xml -->
+    <string name="conversation_item_username">Nombre de usuario</string>
+    <string name="conversation_item_message">Mensaje</string>
+    <string name="conversation_item_time">Hora</string>
+
+    <!-- item_mesagge.xml -->
+    <!-- Vista para mostrar un mensaje en un CardView -->
+    <string name="sender_name">Sender Name</string>
+    <string name="message_text">Message Text</string>
+    <string name="timestamp">Timestamp</string>
+
+    <!-- item_user_found.xml -->
+    <!-- Vista para mostrar información de un usuario encontrado -->
+    <string name="title_user_found">Usuario encontrado</string>
+    <string name="name_user">Nombre del usuario</string>
+    <string name="email_user">Correo del usuario</string>
+    <string name="chat_button">Chatear</string>
+
+    <!-- Vista de menú-->
+    <string name="nav_chat">Chat</string>
+    <string name="nav_users">Usuarios</string>
+    <string name="nav_logout">Cerrar sesión</string>
+</resources>
